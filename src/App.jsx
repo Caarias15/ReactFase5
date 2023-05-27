@@ -32,9 +32,12 @@ function App() {
       <br />
       </div>
       <p className="read-the-docs">
+      
+      <footer>
       Esta pagina fue desarrollada por estudiantes de la UNAD de la Carrera Ing en sistemas -
                 Fecha de Actualizacion: Santiago de Cali, Sabado 27 de Mayo de 2023
                 Derechos reservados para el autor del sitio protegido contra Copyright.
+                </footer>         
       </p>
     </>
   )
