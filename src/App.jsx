@@ -20,16 +20,17 @@ function App() {
       <h2>Diseño de sitios web - (301122A_1391)</h2>
       <div className="card">
         <h3>Integrantes</h3>
+        <br />
         <h4>Carlos Arturo Arias Ortiz</h4>
         <h4>Edgar Dario Mejia Delgado</h4>
-
+        <br />
 
         <h6>Enlace del proyecto: </h6>
         <a href="public/indexfase4.html">Click aqui para ir al proyecto</a>
        
 
       <hr />
-      <br /><br />
+      <br />
       </div>
       <p className="read-the-docs">
       Esta pagina fue desarrollada por Carlos Arias - Edgar Mejia _ Fecha actualización: 26/05/2023
