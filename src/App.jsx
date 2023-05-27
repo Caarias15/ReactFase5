@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Fase 5 - Operar</h1>
+      <h2>Diseño de sitios web - (301122A_1391)</h2>
       <div className="card">
         <h3>Integrantes</h3>
         <h4>Carlos Arturo Arias Ortiz</h4>
