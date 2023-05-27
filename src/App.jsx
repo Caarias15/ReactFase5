@@ -19,12 +19,11 @@ function App() {
       <h1>Fase 5 - Operar</h1>
       <h2>Diseño de sitios web - (301122A_1391)</h2>
       <div className="card">
-        <h3>Integrantes</h3>
-        <br />
+        <h3>Integrantes:</h3>
         <h4>Carlos Arturo Arias Ortiz</h4>
         <h4>Edgar Dario Mejia Delgado</h4>
         <br />
-
+        <h4>Tutor: Mario Luis Avila Perez</h4>
         <h6>Enlace del proyecto: </h6>
         <a href="inicio.html">Click aqui para ir al proyecto</a>
        
