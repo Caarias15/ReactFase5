@@ -25,7 +25,7 @@ function App() {
 
 
         <h6>Enlace del proyecto: </h6>
-        <a href="public/index.html">Click aqui para ir al proyecto</a>
+        <a href="public/indexfase4.html">Click aqui para ir al proyecto</a>
        
 
       <hr />
