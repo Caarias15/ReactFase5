@@ -32,7 +32,9 @@ function App() {
       <br />
       </div>
       <p className="read-the-docs">
-      Esta pagina fue desarrollada por Carlos Arias - Edgar Mejia _ Fecha actualización: 26/05/2023
+      Esta pagina fue desarrollada por estudiantes de la UNAD de la Carrera Ing en sistemas -
+                Fecha de Actualizacion: Santiago de Cali, Sabado 27 de Mayo de 2023
+                Derechos reservados para el autor del sitio protegido contra Copyright.
       </p>
     </>
   )
