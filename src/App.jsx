@@ -16,17 +16,22 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Fase 5 - Operar</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code>  La vida es una sola
-        </p>
+        <h3>Integrantes</h3>
+        <h4>Carlos Arturo Arias Ortiz</h4>
+        <h4>Edgar Dario Mejia Delgado</h4>
+
+
+        <h6>Enlace del proyecto: </h6>
+        <a href="public/index.html">Click aqui para ir al proyecto</a>
+       
+
+      <hr />
+      <br /><br />
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+      Esta pagina fue desarrollada por Carlos Arias - Edgar Mejia _ Fecha actualización: 26/05/2023
       </p>
     </>
   )

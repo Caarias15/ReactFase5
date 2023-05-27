@@ -1,0 +1,83 @@
+.resolucion {
+    width: 99%;
+    text-align: center;
+}
+
+
+/**Movil**/
+
+@media screen and (max-width: 767px) {
+    .desktop {
+        display: none;
+    }
+    .tablet {
+        display: none;
+    }
+}
+
+
+/**Tablet**/
+
+@media (min-width: 768px) and (max-width: 990px) {
+    .desktop {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+}
+
+
+/**Escritorio**/
+
+@media (min-width: 991px) {
+    .tablet {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+/*BOTON CONTENIDO */
+
+#boton_contenido{
+    width: 80%;
+    display: black;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(37, 143, 125, 0.733);
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.dropdown-item{
+    width: 80%;
+    display: black;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(66, 28, 170, 0.733);
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#boton_contenido:hover {
+    background: #000;
+    color: #fff;
+}
+.dropdown-item:hover {
+    background: #000;
+    color: #fff;
+}
+
+

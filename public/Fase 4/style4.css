@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Balsamic Sans';
+}
+
+header {
+    text-align: center;
+    background: #000;
+    color: #fff;
+    padding: 10 px 0;
+
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+}
+
+.section {
+    border: 2px solid #5624d0;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+label {
+    display: block;
+    padding: 7px;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 1px dashed #ccc;
+    margin-bottom: 3px;
+}
+
+label:hover {
+    background: rgba(37, 143, 125, 0.733);
+}
+
+#boton_enviar {
+    width: 80%;
+    display: black;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(37, 143, 125, 0.733);
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#boton_enviar:hover {
+    background: #000;
+    color: #fff;
+}
+
+
+#resultado{
+    font-size: 30px;
+    color: darkred;
+    text-align: center;
+}
+
+.encabezado1 {
+    background-color: #0B2447;
+    color: white;
+}
+
+#encabezado2 {
+    text-align: center;
+    background-color: #0B2447;
+    color: white;
+}
+
+.piedepagina {
+    text-align: center;
+    background-color: #A5D7E8;
+    color: black;
+}
